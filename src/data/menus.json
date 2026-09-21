@@ -1,0 +1,1654 @@
+[
+  {
+    "slug": "breakfast",
+    "title": "Breakfast & brunch",
+    "shortTitle": "Breakfast",
+    "description": "A slow start. A great coffee. Something worth getting up for.",
+    "image": "breakfast",
+    "imageAlt": "Eggs, avocado and toast at Natural Kitchen",
+    "source": "Breakfast-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "a-fresh-start",
+        "title": "A fresh start",
+        "items": [
+          {
+            "name": "Freshly baked pastries",
+            "price": 3.75,
+            "description": "Please ask your server for today’s selection."
+          },
+          {
+            "name": "Jumbo oat, quinoa, flax seed & blueberry porridge",
+            "price": 8.75,
+            "description": "Topped with banana, pomegranate, organic honey and super seeds, or dried figs, apricot, pear, prune, peach and maple syrup.",
+            "tags": [
+              "Gluten free"
+            ]
+          },
+          {
+            "name": "Granola with Greek or coconut yoghurt",
+            "price": 8.5,
+            "description": "Fruit compote, fresh strawberries, blueberries, dry barberries and maple syrup.",
+            "tags": [
+              "Gluten free"
+            ]
+          },
+          {
+            "name": "Buckwheat, almond milk & banana pancake",
+            "price": 8.95,
+            "description": "Homemade pancake topped with fruit compote, coconut yoghurt and maple syrup.",
+            "tags": [
+              "Vegan",
+              "Gluten free"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "eggs-your-way",
+        "title": "Eggs, your way",
+        "items": [
+          {
+            "name": "Eggs Benedict",
+            "price": 17.5,
+            "description": "Wiltshire honey roast gammon ham, crispy pancetta, super seeds, baby spinach leaves, poached free range eggs and hollandaise sauce on toasted sourdough."
+          },
+          {
+            "name": "Eggs Cyprus",
+            "price": 16,
+            "description": "Homemade guacamole, crispy Cypriot halloumi cheese, super seeds, baby spinach leaves, free range poached eggs and hollandaise on toasted sourdough.",
+            "tags": [
+              "Vegetarian"
+            ]
+          },
+          {
+            "name": "Eggs Royale",
+            "price": 18,
+            "description": "Oak smoked salmon, fresh dill, baby spinach leaves, poached free range eggs and hollandaise sauce on toasted rye sourdough."
+          },
+          {
+            "name": "Huevos Rancheros — Mexican eggs",
+            "price": 16,
+            "description": "Cheesy toasted quesadilla, free range fried eggs, Morita chilli and tomatillo salsa, black beans, fresh avocado guacamole, red chilli and fresh coriander."
+          },
+          {
+            "name": "Spanish chorizo, fried eggs & hash",
+            "price": 14,
+            "description": "Spanish chorizo, potato hash, free range fried eggs, wilted spinach, Sriracha chilli drizzle and fresh parsley."
+          },
+          {
+            "name": "The NK Farmhouse Omelette",
+            "price": 14,
+            "description": "Grilled mushrooms, baby spinach leaves, tomato, mature cheddar, mild chilli and fresh herbs.",
+            "extras": [
+              "Add Wiltshire ham hock £3.00 or smoked salmon £4.50."
+            ]
+          }
+        ]
+      },
+      {
+        "id": "breakfast-favourites",
+        "title": "Breakfast favourites",
+        "items": [
+          {
+            "name": "NK English Breakfast",
+            "price": 19.5,
+            "description": "Butchers pork sausage, dry cure smoked bacon, free range fried eggs, baked beans, sautéed mushrooms, hash brown, roast tomato and sourdough toast."
+          },
+          {
+            "name": "NK Vegetarian Breakfast",
+            "price": 17.85,
+            "description": "Grilled halloumi cheese, homemade avocado guacamole, hash brown, free range scrambled egg, spicy black beans, sautéed mushrooms and sourdough toast.",
+            "tags": [
+              "Vegetarian"
+            ]
+          },
+          {
+            "name": "Avocado guacamole on toast",
+            "price": 13.5,
+            "description": "Baby spinach, cherry tomatoes, super seeds and fresh chilli on sourdough toast.",
+            "tags": [
+              "Vegetarian"
+            ],
+            "extras": [
+              "Add poached egg £2.00 or smoked salmon £4.50."
+            ]
+          },
+          {
+            "name": "Omega 3 Breakfast",
+            "price": 17,
+            "description": "Scottish smoked salmon, homemade avocado guacamole, free range scrambled eggs, toasted super seeds, fresh dill, mild red chilli and rye sourdough toast."
+          },
+          {
+            "name": "Super Protein & Fibre Breakfast",
+            "price": 15,
+            "description": "Two free range soft poached eggs, fresh avocado, wilted spinach leaves, cherry tomatoes and lentils, toasted super seeds, fresh chopped chives and fresh red chilli on sourdough toast."
+          },
+          {
+            "name": "Posh bacon or sausage sandwich",
+            "price": 8.5,
+            "description": "Dry cure bacon or butchers pork sausage, hollandaise sauce on lightly toasted soft ciabatta."
+          }
+        ]
+      }
+    ],
+    "notices": [
+      "Some dishes may contain nuts, peanuts or sesame. Full allergen matrix available on request. Please speak to our team about any allergies before ordering.",
+      "A discretionary service charge is added to all bills and distributed 100% to all team members in addition to their normal pay."
+    ]
+  },
+  {
+    "slug": "main",
+    "title": "The restaurant menu",
+    "shortTitle": "Main menu",
+    "description": "Seasonal salads, comforting favourites, and food to take your time over.",
+    "image": "seasonal-food",
+    "imageAlt": "A freshly prepared dish at Natural Kitchen",
+    "source": "Main-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "starters",
+        "title": "Starters & sharers",
+        "items": [
+          {
+            "name": "Green Nocellara olives",
+            "price": 6
+          },
+          {
+            "name": "Homemade soup of the day",
+            "description": "Please see our specials menu.",
+            "priceLabel": "Ask our team"
+          },
+          {
+            "name": "Tempura chilli, salt & pepper squid",
+            "description": "Toasted chipotle chilli, fresh lime and coriander mayonnaise, basil aioli and fresh chives.",
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 11.95
+              },
+              {
+                "label": "To share",
+                "amount": 19.75
+              }
+            ]
+          },
+          {
+            "name": "Sweet & spicy Korean fried chicken",
+            "description": "Breaded chicken breast coated in gochujang chilli, spring onion, red chilli and sesame seeds.",
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 11
+              },
+              {
+                "label": "To share",
+                "amount": 19.25
+              }
+            ]
+          },
+          {
+            "name": "Homemade nachos",
+            "description": "Cajun dusted homemade tortillas, Mexican toasted chipotle Morita chilli salsa, NK’s avocado guacamole, melted mature cheddar, minted sour cream, pickled jalapeños and fresh chives.",
+            "tags": [
+              "Vegetarian"
+            ],
+            "extras": [
+              "Add chicken breast: regular £3.00 / sharing £4.50."
+            ],
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 10.5
+              },
+              {
+                "label": "To share",
+                "amount": 19
+              }
+            ]
+          },
+          {
+            "name": "Breaded cauliflower bites",
+            "description": "Cauliflower florets marinated in coconut milk, tahini and miso dressing, fresh pomegranate and mild green chilli.",
+            "tags": [
+              "Vegetarian"
+            ],
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 10.25
+              },
+              {
+                "label": "To share",
+                "amount": 18
+              }
+            ]
+          },
+          {
+            "name": "Middle Eastern mezze",
+            "description": "Homemade chickpea falafel, tabbouleh with feta, sundried tomato hummus, tzatziki, pickled figs, toasted split peas, pickled cucumber, charred spiced carrot and flatbread.",
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 10.25
+              },
+              {
+                "label": "To share",
+                "amount": 21
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "salads",
+        "title": "Healthy salads",
+        "items": [
+          {
+            "name": "Breaded buttermilk chicken breast & crispy smoked pancetta",
+            "price": 25.5,
+            "description": "Fresh avocado, green olives, cherry tomato, baby gem lettuce, aged parmesan, baby watercress, wild rocket, rustic herb croutons and NK’s Caesar dressing."
+          },
+          {
+            "name": "Asian blackened teriyaki salmon fillet",
+            "price": 27.25,
+            "description": "Organic buckwheat soba noodles, chicory, radicchio, pak choi, black daikon and red radish, edamame beans, red pepper, spring onion, mild red chilli, fresh coriander and nori with miso, oyster, sesame, lime and soy dressing."
+          },
+          {
+            "name": "Superfood Detox",
+            "price": 22.95,
+            "description": "Trio of organic quinoas, fresh avocado, lentils, baked sweet potato, charred broccoli, golden and purple beetroot, carrot and celery, baby watercress and spinach, sprouting pulses, toasted super seeds, goji berries and a light vinaigrette dressing."
+          },
+          {
+            "name": "Falafel & feta",
+            "price": 23,
+            "description": "Homemade chickpea falafel, Greek feta cheese, fresh pomegranate, cherry tomato, pickled cucumber, mint leaves, toasted sunflower and pumpkin seeds, gem lettuce, baba ganoush and tahini dressing."
+          }
+        ],
+        "description": "Add to your salad: chicken breast £4.50, crispy halloumi cheese £3.00, half avocado £3.50, super seeds £1.00 or two homemade falafels £2.50."
+      },
+      {
+        "id": "meat-fish-plants",
+        "title": "Meat, fish & plants",
+        "items": [
+          {
+            "name": "Green Superfood Courgetti",
+            "price": 24.25,
+            "description": "Superfood pesto, almond milk, charred asparagus spears and tenderstem broccoli, fine green and edamame beans, roasted cherry tomatoes and red pepper, wild rocket leaves, pomegranate, sunflower and pumpkin seeds.",
+            "extras": [
+              "Choose crispy halloumi (vegetarian) or turmeric infused tofu with sundried tomato (vegan)."
+            ]
+          },
+          {
+            "name": "Fish & chips",
+            "price": 28,
+            "description": "Fresh beer battered sustainable cod, thick chips, minted green peas and NK’s homemade tartare."
+          },
+          {
+            "name": "Harissa chicken breast",
+            "price": 26.5,
+            "description": "Moroccan spiced giant couscous, charred tenderstem broccoli and carrot, turmeric infused cauliflower, peas, edamame, rose harissa coconut cream, fresh lemon and mint yoghurt."
+          },
+          {
+            "name": "King prawn & sesame chicken udon",
+            "price": 26,
+            "description": "Thick udon noodles, king prawns, sesame chicken, Asian vegetables, fresh chilli, spring onion, fresh coriander and sticky teriyaki, soy and sweet chilli."
+          },
+          {
+            "name": "Vegan Protein Curry",
+            "price": 25,
+            "description": "Soya pieces in a coconut cream curry with spinach, peas and peppers. Brown and black rice, coconut yoghurt raita, roti bread, fresh tomato, red onion and coriander salsa.",
+            "tags": [
+              "Vegan"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "burgers",
+        "title": "Fresh homemade burgers",
+        "items": [
+          {
+            "name": "Yorkshire Wagyu beef burger",
+            "price": 29.75,
+            "description": "Olive fed Wagyu beef, crispy pancetta, mature cheddar and Red Leicester cheeses, caramelised red onion relish, black truffle and grape mustard mayonnaise, gherkin, baby gem lettuce and wild rocket leaves on a toasted brioche bun.",
+            "extras": [
+              "Double up: extra Wagyu patty £12.50."
+            ]
+          },
+          {
+            "name": "Asian style salmon fillet burger",
+            "price": 27,
+            "description": "Asian slaw, hoisin and fresh coriander mayonnaise, fresh chilli and ginger smashed avocado, wild rocket leaves and gem lettuce on a toasted brioche bun."
+          },
+          {
+            "name": "Chargrilled chicken breast burger",
+            "price": 26,
+            "description": "Buttermilk chicken breast, crispy Parma ham, mature cheddar, chunky slaw, pickled red onion, fresh tarragon mayonnaise and gem lettuce on a toasted white sourdough bun."
+          }
+        ],
+        "description": "Served with your choice of skin on chips, sweet potato chips or mixed leaf salad. Add blue cheese £1.00, crispy pancetta £2.00, fried egg £2.00, avocado guacamole or fresh avocado £2.00. You can also replace the bun with a salad."
+      },
+      {
+        "id": "potato-bowls",
+        "title": "Potato bowls",
+        "items": [
+          {
+            "name": "Lightly salted skin on chips",
+            "price": 6.75
+          },
+          {
+            "name": "Cajun cheesy spiced chips",
+            "price": 8.95
+          },
+          {
+            "name": "Paprika dusted sweet potato chips",
+            "price": 7.5
+          },
+          {
+            "name": "A mix of sweet & skin on chips",
+            "price": 6.95
+          },
+          {
+            "name": "Sautéed baby new potatoes",
+            "price": 8
+          }
+        ],
+        "description": "Add a mayo dip £1.95: Sriracha chilli, fresh chipotle & lime, fresh tarragon, or black truffle & grape mustard."
+      },
+      {
+        "id": "sides",
+        "title": "A little on the side",
+        "items": [
+          {
+            "name": "Macaroni cheese",
+            "price": 9.5,
+            "description": "Black truffle oil, crispy pancetta and onions."
+          },
+          {
+            "name": "Charred broccoli & edamame",
+            "price": 8,
+            "description": "Bean sprouts and soy chilli oil."
+          },
+          {
+            "name": "Mixed salad leaves",
+            "price": 7,
+            "description": "Pickled red onion and cherry tomatoes."
+          },
+          {
+            "name": "Wild rocket & parmesan",
+            "price": 7.5,
+            "description": "With balsamic."
+          },
+          {
+            "name": "Caesar salad",
+            "price": 10,
+            "description": "Leaves, black olives, croutons and parmesan."
+          },
+          {
+            "name": "Chunky homemade coleslaw",
+            "price": 6.95
+          }
+        ]
+      },
+      {
+        "id": "puddings",
+        "title": "Puddings",
+        "items": [
+          {
+            "name": "Salted Caramel Chocolate Brownie",
+            "price": 9.5,
+            "description": "Milk chocolate drizzle and natural vanilla ice cream."
+          },
+          {
+            "name": "Banoffee Pie",
+            "price": 8.5,
+            "description": "Milk chocolate, caramel, banana, Chantilly cream and banana chips."
+          },
+          {
+            "name": "Passionfruit Cheesecake",
+            "price": 9,
+            "description": "White chocolate shavings."
+          },
+          {
+            "name": "Classic Tiramisu",
+            "price": 9,
+            "description": "Coffee and Kahlua liqueur soaked sponge fingers, mascarpone, whipped cream and cocoa."
+          },
+          {
+            "name": "Jude’s Natural Ice Creams",
+            "description": "Dairy: chocolate, vanilla or strawberry. Vegan: salted caramel, coconut or mango sorbet.",
+            "prices": [
+              {
+                "label": "1 scoop",
+                "amount": 5
+              },
+              {
+                "label": "2 scoops",
+                "amount": 6.5
+              },
+              {
+                "label": "3 scoops",
+                "amount": 8
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notices": [
+      "Some dishes may contain nuts, peanuts or sesame. Full allergen matrix available on request. Please speak to our team about any allergies before ordering.",
+      "A discretionary service charge is added to all bills and distributed 100% to all team members in addition to their normal pay.",
+      "Cocktails: two for £18 all day, every day. The same two cocktails must be made at the same time."
+    ]
+  },
+  {
+    "slug": "specials",
+    "title": "September specials",
+    "shortTitle": "Specials",
+    "description": "A change of season. A new favourite. Discover what’s cooking this month.",
+    "image": "salad",
+    "imageAlt": "Seasonal food photography from Natural Kitchen",
+    "source": "Specials-Menu-September-2026.pdf",
+    "edition": "September 2026",
+    "sections": [
+      {
+        "id": "seasonal",
+        "title": "This month’s dishes",
+        "items": [
+          {
+            "name": "Tofu Ramen",
+            "price": 12.75,
+            "description": "Shiitake mushroom, ginger, pak choi, bean sprouts, spring onion, udon noodles, white miso broth, carrot and fresh coriander."
+          },
+          {
+            "name": "Indian Paneer Curry",
+            "price": 23.5,
+            "description": "Paneer cheese, baby spinach, peas, red and green pepper in an Indian spiced coconut cream with fresh coriander, tomato and red onion salad, saffron black and basmati rice, garlic and herb naan."
+          },
+          {
+            "name": "Goats Cheese Risotto",
+            "price": 22,
+            "description": "Baked goats cheese, toasted cherry tomato, charred broccoli and courgette, rocket and basil pesto, toasted sunflower and pumpkin seeds, baby watercress and parmesan.",
+            "extras": [
+              "Add chargrilled chicken breast £4.50."
+            ]
+          },
+          {
+            "name": "Baked cod loin",
+            "price": 28,
+            "description": "Roasted asparagus, courgette, sautéed new potato, gremolata crumb and white wine cream sauce."
+          },
+          {
+            "name": "Wild boar pasta",
+            "price": 28,
+            "description": "Fresh casarecce egg pasta, Sicilian wild boar ragù, shaved parmesan and crispy sage."
+          }
+        ]
+      },
+      {
+        "id": "steaks",
+        "title": "For the carnivores",
+        "items": [
+          {
+            "name": "Sirloin steak & chips",
+            "description": "225g sirloin steak.",
+            "prices": [
+              {
+                "label": "225g",
+                "amount": 29.75
+              }
+            ]
+          },
+          {
+            "name": "Ribeye steak & chips",
+            "prices": [
+              {
+                "label": "225g",
+                "amount": 32.95
+              },
+              {
+                "label": "300g",
+                "amount": 38.95
+              },
+              {
+                "label": "400g",
+                "amount": 45.95
+              }
+            ]
+          }
+        ],
+        "description": "With your choice of sauce: Béarnaise, brandy & peppercorn, or blue cheese."
+      }
+    ],
+    "notices": [
+      "Some dishes may contain nuts or traces of nuts. Full allergen matrix available on request. Please speak to our team about any allergies before ordering.",
+      "A discretionary 10% service charge is added to all bills and distributed 100% to all team members in addition to their normal pay."
+    ]
+  },
+  {
+    "slug": "bar-food",
+    "title": "Bar food",
+    "shortTitle": "Bar food",
+    "description": "Good company calls for something to share. Pull up a chair.",
+    "image": "bar-food",
+    "imageAlt": "Nachos and sharing dishes at Natural Kitchen",
+    "source": "Bar-Food-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "sharing",
+        "title": "For the table",
+        "items": [
+          {
+            "name": "Tempura salt & pepper squid",
+            "description": "Toasted chipotle chilli, fresh lime and coriander mayonnaise, basil aioli and fresh chives.",
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 11.5
+              },
+              {
+                "label": "To share",
+                "amount": 19.5
+              }
+            ]
+          },
+          {
+            "name": "Sweet & spicy Korean fried chicken",
+            "description": "Breaded chicken breast coated in gochujang chilli, spring onion, red chilli and sesame seeds.",
+            "tags": [
+              "Hot"
+            ],
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 11.95
+              },
+              {
+                "label": "To share",
+                "amount": 19.75
+              }
+            ]
+          },
+          {
+            "name": "Homemade nachos",
+            "description": "Homemade Cajun dusted tortilla, Mexican toasted chipotle Morita chilli salsa, homemade avocado guacamole, melted mature cheddar, minted sour cream, pickled jalapeños and fresh chives.",
+            "tags": [
+              "Vegetarian"
+            ],
+            "extras": [
+              "Add red chilli chicken breast: regular £3.00 / sharing £4.50."
+            ],
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 10.5
+              },
+              {
+                "label": "To share",
+                "amount": 19
+              }
+            ]
+          },
+          {
+            "name": "Breaded cauliflower bites",
+            "description": "Cauliflower florets marinated in coconut milk, tahini and miso dressing, fresh pomegranate and mild green chilli.",
+            "prices": [
+              {
+                "label": "Regular",
+                "amount": 10.25
+              },
+              {
+                "label": "To share",
+                "amount": 18
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pizza",
+        "title": "Stonebaked sourdough pizza",
+        "items": [
+          {
+            "name": "Spicy pepperoni",
+            "price": 14,
+            "description": "Mozzarella, ricotta, jalapeños, olives, red onion, tangy tomato sauce and wild rocket leaves."
+          },
+          {
+            "name": "Veggie",
+            "price": 14,
+            "description": "Goats cheese, caramelised onion, roasted peppers, tangy tomato sauce and fresh basil pesto."
+          }
+        ]
+      },
+      {
+        "id": "chips",
+        "title": "Something on the side",
+        "items": [
+          {
+            "name": "Thick cut chips",
+            "price": 7.5,
+            "description": "With garlic and fresh basil aioli."
+          },
+          {
+            "name": "Cajun cheesy chips",
+            "price": 8.95,
+            "description": "Skin on chips, melted mature cheddar cheese and Cajun spices."
+          },
+          {
+            "name": "Chunky homemade sweet potato chips",
+            "price": 7.5,
+            "description": "Dusted with smoked paprika."
+          }
+        ],
+        "description": "Add a mayo dip £1.95: Sriracha chilli, fresh chipotle & lime, fresh tarragon, or black truffle & grape."
+      }
+    ],
+    "notices": [
+      "Some dishes may contain nuts, peanuts or sesame. Full allergen matrix available on request. Please speak to our team about any allergies before ordering."
+    ],
+    "serviceNote": "Available from 3pm until close"
+  },
+  {
+    "slug": "puddings",
+    "title": "Something sweet",
+    "shortTitle": "Puddings",
+    "description": "There’s always room for a little something sweet.",
+    "image": "pancakes",
+    "imageAlt": "Sweet food photography from Natural Kitchen",
+    "source": "Pudding-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "puddings",
+        "title": "Puddings & ice creams",
+        "items": [
+          {
+            "name": "Salted Caramel Chocolate Brownie",
+            "price": 9.5,
+            "description": "Milk chocolate drizzle and natural vanilla ice cream."
+          },
+          {
+            "name": "Banoffee Pie",
+            "price": 8.5,
+            "description": "Milk chocolate, caramel, banana, Chantilly cream and banana chips."
+          },
+          {
+            "name": "Passionfruit Cheesecake",
+            "price": 9,
+            "description": "White chocolate shavings."
+          },
+          {
+            "name": "Classic Tiramisu",
+            "price": 9,
+            "description": "Coffee and Kahlua liqueur soaked sponge fingers, mascarpone, whipped cream and cocoa."
+          },
+          {
+            "name": "Jude’s Natural Ice Creams",
+            "description": "Dairy: chocolate, vanilla or strawberry. Vegan: salted caramel, coconut or mango sorbet.",
+            "prices": [
+              {
+                "label": "1 scoop",
+                "amount": 5
+              },
+              {
+                "label": "2 scoops",
+                "amount": 6.5
+              },
+              {
+                "label": "3 scoops",
+                "amount": 8
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "notices": [
+      "Some dishes may contain nuts, peanuts or sesame. Full allergen matrix available on request. Please speak to our team about any allergies before ordering."
+    ]
+  },
+  {
+    "slug": "cocktails",
+    "title": "Cocktails",
+    "shortTitle": "Cocktails",
+    "description": "From a well-made classic to your new usual. Let us pour you something.",
+    "image": "cocktails",
+    "imageAlt": "A Natural Kitchen bartender preparing a cocktail",
+    "source": "Cocktails-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "classics",
+        "title": "House cocktails",
+        "items": [
+          {
+            "name": "Bramble",
+            "price": 12,
+            "description": "Arbor Gin, Chambord and lemon juice."
+          },
+          {
+            "name": "Porn Star Martini",
+            "price": 12,
+            "description": "Stolichnaya Vanilla Vodka, passion fruit liqueur, apple and lemon juice, and Prosecco."
+          },
+          {
+            "name": "Espresso Martini",
+            "price": 12,
+            "description": "Stolichnaya Vodka, Kahlua and espresso, or with milk for a flat white with Baileys."
+          },
+          {
+            "name": "Amaretto Sour / Whisky Sour",
+            "price": 12,
+            "description": "Amaretto or whisky, lemon juice and sugar."
+          },
+          {
+            "name": "Side Car",
+            "price": 12,
+            "description": "Brandy, Cointreau, lemon juice and sugar rim."
+          },
+          {
+            "name": "Moscow Mule",
+            "price": 12,
+            "description": "Stolichnaya Vodka, Fever-Tree ginger beer, lime juice and Angostura."
+          },
+          {
+            "name": "Negroni",
+            "price": 12,
+            "description": "Tarquin’s Cornish Gin, red vermouth, Campari and orange slice."
+          },
+          {
+            "name": "Quick Old Fashioned",
+            "price": 12,
+            "description": "Bourbon, demerara syrup and Angostura bitters."
+          },
+          {
+            "name": "Tommy’s Chilli Margarita",
+            "price": 12,
+            "description": "Tequila, lime juice and mild fresh chilli."
+          },
+          {
+            "name": "Tequila Sunrise",
+            "price": 12,
+            "description": "Tequila, fresh orange juice and grenadine."
+          }
+        ]
+      }
+    ],
+    "notices": [
+      "These are our house cocktails, but we can do more. Please ask our team."
+    ],
+    "serviceNote": "Two for £18, all day, every day. For the same two cocktails made at the same time."
+  },
+  {
+    "slug": "drinks",
+    "title": "Drinks for every occasion",
+    "shortTitle": "Drinks",
+    "description": "Something sparkling, something refreshing, or a glass of your favourite.",
+    "image": "beer",
+    "imageAlt": "Draught beer taps at Natural Kitchen",
+    "source": "Drinks-Menu-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "draught",
+        "title": "Draught beers",
+        "items": [
+          {
+            "name": "Pravha · Czech Pilsner · 4%",
+            "description": "Pale gold Pilsner with iconic flavour and gentle bitterness. Clean, light and refreshing.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 3.9
+              },
+              {
+                "label": "Pint",
+                "amount": 7.8
+              }
+            ]
+          },
+          {
+            "name": "Monte Carlo Beer Premium Lager · 4.8%",
+            "description": "Delicate fruity taste and aroma from the unique French Triskel hop. Super premium quality bière spéciale from the Principality of Monaco.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 4.25
+              },
+              {
+                "label": "Pint",
+                "amount": 8.5
+              }
+            ]
+          },
+          {
+            "name": "Caffrey’s Black Stout · 3.4%",
+            "description": "Classic full flavoured black stout. Since 1897.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 3.9
+              },
+              {
+                "label": "Pint",
+                "amount": 7.8
+              }
+            ]
+          },
+          {
+            "name": "Alpaca Lypse IPA · 4.3%",
+            "description": "Modern IPA. Super refreshing, less hoppy and bitter than most others.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 3.9
+              },
+              {
+                "label": "Pint",
+                "amount": 7.8
+              }
+            ]
+          },
+          {
+            "name": "Doom Bar Amber Ale · 4.3%",
+            "description": "Classic British amber ale with hints of dried fruits and roasted malt.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 3.9
+              },
+              {
+                "label": "Pint",
+                "amount": 7.8
+              }
+            ]
+          },
+          {
+            "name": "Madri Exceptional · 4.6%",
+            "description": "Spanish premium lager. Crisp and refreshing with a bitter sweet finish.",
+            "prices": [
+              {
+                "label": "Half pint",
+                "amount": 4
+              },
+              {
+                "label": "Pint",
+                "amount": 8
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "bottled",
+        "title": "Bottled beers & cider",
+        "items": [
+          {
+            "name": "Madri Excepcional · 4.6% ABV",
+            "price": 6.5,
+            "description": "33cl"
+          },
+          {
+            "name": "Monte Carlo Beer · 4.8% ABV",
+            "price": 6.95,
+            "description": "33cl"
+          },
+          {
+            "name": "Pravha Czech Pilsner · 4% ABV",
+            "price": 5.95,
+            "description": "33cl"
+          },
+          {
+            "name": "Peroni Nastro Azzurro · 5.1% ABV",
+            "price": 5.95,
+            "description": "33cl",
+            "tags": [
+              "Gluten free"
+            ]
+          },
+          {
+            "name": "Madri Exceptional Zero",
+            "price": 4.95,
+            "description": "33cl"
+          },
+          {
+            "name": "Aspall Suffolk Draught Cyder · 5.5% ABV",
+            "price": 6.5,
+            "description": "33cl"
+          },
+          {
+            "name": "Rekorderlig Strawberry–Lime Cider · 4% ABV",
+            "price": 7,
+            "description": "50cl"
+          },
+          {
+            "name": "Rekorderlig Strawberry–Lime Cider Zero",
+            "price": 5.85,
+            "description": "50cl"
+          }
+        ]
+      },
+      {
+        "id": "white-wine",
+        "title": "White wines",
+        "items": [
+          {
+            "name": "Convertido Verdejo · Organic · Spain",
+            "description": "Easy drinking, fresh, aromatic. Enjoy anytime.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 7.95
+              },
+              {
+                "label": "Half bottle",
+                "amount": 15
+              },
+              {
+                "label": "Bottle",
+                "amount": 29.5
+              }
+            ]
+          },
+          {
+            "name": "Grillo, Il Folle · Organic · Italy",
+            "description": "Velvety, floral and smooth with aromas of ripe peach.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 8.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 18
+              },
+              {
+                "label": "Bottle",
+                "amount": 34
+              }
+            ]
+          },
+          {
+            "name": "Grenache Chardonnay, Roc d’Opale · France",
+            "description": "Packed with orange, raspberry and plum.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 9.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 19
+              },
+              {
+                "label": "Bottle",
+                "amount": 36
+              }
+            ]
+          },
+          {
+            "name": "Sauvignon Touraine, Dom des Vaublins · France",
+            "description": "Classic French style, dry with fruit.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 9.75
+              },
+              {
+                "label": "Half bottle",
+                "amount": 20
+              },
+              {
+                "label": "Bottle",
+                "amount": 38
+              }
+            ]
+          },
+          {
+            "name": "Pinot Grigio, La Jara Veneto IGT · Italy",
+            "description": "Fruity bouquet, delicious and balanced. Exquisite Pinot.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 8.95
+              },
+              {
+                "label": "Half bottle",
+                "amount": 18
+              },
+              {
+                "label": "Bottle",
+                "amount": 35
+              }
+            ]
+          },
+          {
+            "name": "Chablis, Domaine du Colombier · France",
+            "description": "Sophisticated, buttery and full bodied with no oak.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 12.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 25
+              },
+              {
+                "label": "Bottle",
+                "amount": 49
+              }
+            ]
+          },
+          {
+            "name": "Short for Kate, Sauvignon Blanc · New Zealand",
+            "description": "Classic New Zealand sauvignon, crisp, fresh and floral.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 50
+              }
+            ]
+          },
+          {
+            "name": "Bacchus Block, Lyme Bay 2020 · England",
+            "description": "Long citrus-dominated finish with great depth, tropical-fruit notes and herbal undertones.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "rose",
+        "title": "Rosé wines",
+        "items": [
+          {
+            "name": "Pinot Grigio, Belifore · Italy",
+            "description": "Light, crisp and floral.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 7.95
+              },
+              {
+                "label": "Half bottle",
+                "amount": 15
+              },
+              {
+                "label": "Bottle",
+                "amount": 29.5
+              }
+            ]
+          },
+          {
+            "name": "Côtes de Provence, Domaine Pinchin · France",
+            "description": "Balanced, fresh, dry but sweet, fruity bouquet.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 9.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 20
+              },
+              {
+                "label": "Bottle",
+                "amount": 38
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "sparkling",
+        "title": "Champagne & sparkling",
+        "items": [
+          {
+            "name": "Prosecco DOC Brut NV Masottina · Italy",
+            "description": "Fruity, fun and very pure with lively bubbles.",
+            "prices": [
+              {
+                "label": "Glass",
+                "amount": 9
+              },
+              {
+                "label": "Bottle",
+                "amount": 34
+              }
+            ]
+          },
+          {
+            "name": "Rosé Prosecco, Millesimato Masottina · Italy",
+            "description": "Hints of wild strawberries and raspberries.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 34
+              }
+            ]
+          },
+          {
+            "name": "La Maison Nueve Crémant de Loire NV · France",
+            "description": "Bubbly, fruity with hints of flowers.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 49
+              }
+            ]
+          },
+          {
+            "name": "Champagne Joseph Perrier NV · Cuvée Royale Brut",
+            "description": "Abundant ripe fruits, especially pear with a hint of spice.",
+            "prices": [
+              {
+                "label": "Glass",
+                "amount": 16
+              },
+              {
+                "label": "Bottle",
+                "amount": 80
+              },
+              {
+                "label": "Two bottles",
+                "amount": 120
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "red-wine",
+        "title": "Red wines",
+        "items": [
+          {
+            "name": "Convertido Tempranillo · Spain",
+            "description": "Easy drinking, soft, light berried red.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 7.95
+              },
+              {
+                "label": "Half bottle",
+                "amount": 15
+              },
+              {
+                "label": "Bottle",
+                "amount": 29.5
+              }
+            ]
+          },
+          {
+            "name": "Malbec Finca La Linda, Bodega Luigi Bosca · Argentina",
+            "description": "Balanced, full bodied with hints of vanilla.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 12.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 25
+              },
+              {
+                "label": "Bottle",
+                "amount": 49
+              }
+            ]
+          },
+          {
+            "name": "Nero d’Avola, Il Folle · Organic · Italy",
+            "description": "Hints of blackberry, medium bodied with savoury notes.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 8.25
+              },
+              {
+                "label": "Half bottle",
+                "amount": 17
+              },
+              {
+                "label": "Bottle",
+                "amount": 32
+              }
+            ]
+          },
+          {
+            "name": "Merlot Bella Storia Cielo · Organic · Italy",
+            "description": "Dark ruby red, well balanced with fascinating bouquet.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 11.25
+              },
+              {
+                "label": "Half bottle",
+                "amount": 24
+              },
+              {
+                "label": "Bottle",
+                "amount": 46
+              }
+            ]
+          },
+          {
+            "name": "Rioja La Vendimia, Palacios Remondo · Spain",
+            "description": "Dark cherries, vanilla and great intensity.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 12.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 25
+              },
+              {
+                "label": "Bottle",
+                "amount": 49
+              }
+            ]
+          },
+          {
+            "name": "Pinot Noir, Domaine de Cabrils · France",
+            "description": "Tastes of red fruits, herb spice and soft finish.",
+            "prices": [
+              {
+                "label": "175ml glass",
+                "amount": 12.5
+              },
+              {
+                "label": "Half bottle",
+                "amount": 25
+              },
+              {
+                "label": "Bottle",
+                "amount": 49
+              }
+            ]
+          },
+          {
+            "name": "Côte du Rhône Villages, Bouquet des Garrigues · Organic · France",
+            "description": "Hints of peach, musk, melon and honey.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 50
+              }
+            ]
+          },
+          {
+            "name": "Zinfandel, St Georges Old Vines · California · Birichino 2018",
+            "description": "Red berry fruits with a warm peppery note.",
+            "prices": [
+              {
+                "label": "Bottle",
+                "amount": 50
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "spirits",
+        "title": "House spirits",
+        "items": [
+          {
+            "name": "Arber Arboretum Gin",
+            "prices": [
+              {
+                "label": "Single · 25ml",
+                "amount": 8.95
+              },
+              {
+                "label": "Double · 50ml",
+                "amount": 12
+              }
+            ]
+          },
+          {
+            "name": "Moonshine Premium Vodka",
+            "prices": [
+              {
+                "label": "Single · 25ml",
+                "amount": 8.95
+              },
+              {
+                "label": "Double · 50ml",
+                "amount": 12
+              }
+            ]
+          },
+          {
+            "name": "Bacardi White Rum",
+            "prices": [
+              {
+                "label": "Single · 25ml",
+                "amount": 8.95
+              },
+              {
+                "label": "Double · 50ml",
+                "amount": 12
+              }
+            ]
+          },
+          {
+            "name": "Jim Beam Bourbon",
+            "prices": [
+              {
+                "label": "Single · 25ml",
+                "amount": 8.95
+              },
+              {
+                "label": "Double · 50ml",
+                "amount": 12
+              }
+            ]
+          }
+        ],
+        "description": "Prices include your choice of mixer. Many more spirits available at the bar."
+      },
+      {
+        "id": "smoothies",
+        "title": "Super smoothies",
+        "items": [
+          {
+            "name": "Green Machine",
+            "price": 7.95,
+            "description": "Fresh avocado, spinach leaves, curly kale and cloudy apple juice."
+          },
+          {
+            "name": "Bananaberry",
+            "price": 7.95,
+            "description": "Banana, strawberries, blueberries, blackberries, raspberries, red and black currants, sour cherries and cranberry and cloudy apple juice."
+          },
+          {
+            "name": "OMG",
+            "price": 7.95,
+            "description": "Freshly squeezed orange juice, ripe mango and root ginger juice."
+          },
+          {
+            "name": "Energiser Bunny",
+            "price": 7.95,
+            "description": "Fresh avocado, spirulina, spinach leaves, cucumber, coconut water and cloudy apple juice."
+          }
+        ]
+      },
+      {
+        "id": "juices",
+        "title": "Juices",
+        "items": [
+          {
+            "name": "Freshly squeezed orange",
+            "price": 6.75
+          },
+          {
+            "name": "Cloudy pressed apple",
+            "price": 6.75
+          },
+          {
+            "name": "Unsweetened cranberry & a little apple juice",
+            "price": 6.75
+          },
+          {
+            "name": "100% pressed tomato",
+            "price": 6.75
+          }
+        ]
+      },
+      {
+        "id": "boosts",
+        "title": "Juice & smoothie boosts",
+        "items": [
+          {
+            "name": "Boost your juice or smoothie",
+            "description": "Lion’s mane mushroom, vegan collagen, or chia & flax seeds.",
+            "priceLabel": "Ask our team"
+          },
+          {
+            "name": "Acai berry boost",
+            "price": 2.75
+          }
+        ]
+      },
+      {
+        "id": "iced-tea",
+        "title": "Iced tea",
+        "items": [
+          {
+            "name": "Iced tea",
+            "price": 5.25,
+            "description": "Plain, lemon, peach, passion fruit or raspberry."
+          }
+        ]
+      },
+      {
+        "id": "homemade",
+        "title": "Fresh homemade drinks",
+        "items": [
+          {
+            "name": "Classic lemonade",
+            "price": 5.5
+          },
+          {
+            "name": "Raspberry pink lemonade",
+            "price": 5.5
+          },
+          {
+            "name": "Elderflower bubbly & fresh mint",
+            "price": 5.5
+          },
+          {
+            "name": "Pink ginger cooler",
+            "price": 5.5
+          }
+        ]
+      },
+      {
+        "id": "mocktails",
+        "title": "Mocktails",
+        "items": [
+          {
+            "name": "Crodino Spritz",
+            "price": 8.95,
+            "description": "Bittersweet orange and grapefruit with herbal extracts."
+          },
+          {
+            "name": "Virgin Mojito",
+            "price": 8.95,
+            "description": "Fresh apple juice, brown sugar, muddled mint, lime and soda."
+          },
+          {
+            "name": "Virgin Mary",
+            "price": 8.95,
+            "description": "100% fresh pressed tomato juice, Worcestershire sauce, Tabasco and lemon wedge."
+          }
+        ],
+        "description": "0% alcohol"
+      }
+    ],
+    "notices": [
+      "Wine glasses are 175ml unless stated otherwise. Smaller 125ml and larger 250ml glasses are also available. Wine vintages are subject to change.",
+      "Cocktails: two for £18 all day, every day. For the same two cocktails made at the same time. See our cocktails menu."
+    ]
+  },
+  {
+    "slug": "coffee-juices",
+    "title": "Coffee, juices & smoothies",
+    "shortTitle": "Coffee & juices",
+    "description": "Your morning coffee. A freshly squeezed juice. A little lift for your day.",
+    "image": "smoothies",
+    "imageAlt": "Fresh smoothies at Natural Kitchen",
+    "source": "Smoothies-Juices-coffee-May-2026.pdf",
+    "edition": "May 2026",
+    "sections": [
+      {
+        "id": "coffee",
+        "title": "Organic & Fairtrade coffee",
+        "items": [
+          {
+            "name": "Americano",
+            "price": 4.75
+          },
+          {
+            "name": "Latte / Cappuccino",
+            "price": 4.95
+          },
+          {
+            "name": "Espresso",
+            "prices": [
+              {
+                "label": "Single",
+                "amount": 3
+              },
+              {
+                "label": "Double",
+                "amount": 3.75
+              }
+            ]
+          },
+          {
+            "name": "Macchiato",
+            "prices": [
+              {
+                "label": "Single",
+                "amount": 3.1
+              },
+              {
+                "label": "Double",
+                "amount": 3.9
+              }
+            ]
+          },
+          {
+            "name": "Flat white",
+            "price": 4.95
+          },
+          {
+            "name": "Cortado",
+            "price": 4.25
+          },
+          {
+            "name": "Chai latte / Dirty chai",
+            "prices": [
+              {
+                "label": "Chai latte",
+                "amount": 5
+              },
+              {
+                "label": "Dirty chai",
+                "amount": 5.25
+              }
+            ]
+          },
+          {
+            "name": "Hot chocolate",
+            "price": 6
+          },
+          {
+            "name": "Mocha",
+            "price": 5.95
+          }
+        ],
+        "description": "100% Peruvian Arabica. Natural Kitchen supports the World Land Trust with every coffee bean it buys. Organic skimmed, half & half, full cows, oat, soya and almond milks available."
+      },
+      {
+        "id": "tea",
+        "title": "Teas & infusions",
+        "items": [
+          {
+            "name": "Pot of loose leaf organic tea",
+            "price": 4.5,
+            "description": "English Breakfast, Earl Grey, Green or Camomile."
+          },
+          {
+            "name": "Fresh infusions",
+            "price": 4.25,
+            "description": "Fresh lemon & ginger root, or fresh mint leaf."
+          }
+        ]
+      },
+      {
+        "id": "smoothies",
+        "title": "Super smoothies",
+        "items": [
+          {
+            "name": "Green Machine",
+            "price": 7.95,
+            "description": "Fresh avocado, spinach leaves, curly kale and cloudy apple juice."
+          },
+          {
+            "name": "Bananaberry",
+            "price": 7.95,
+            "description": "Banana, strawberries, blueberries, blackberries, raspberries, red and black currants, sour cherries and banana and apple juice."
+          },
+          {
+            "name": "OMG",
+            "price": 7.95,
+            "description": "Freshly squeezed orange juice, ripe mango and root ginger juice."
+          },
+          {
+            "name": "Energiser Bunny",
+            "price": 7.95,
+            "description": "Fresh avocado, spirulina, spinach leaves, cucumber, coconut water and cloudy apple juice."
+          }
+        ]
+      },
+      {
+        "id": "juices",
+        "title": "Fresh juices",
+        "items": [
+          {
+            "name": "Freshly squeezed orange",
+            "price": 6.75
+          },
+          {
+            "name": "Cloudy pressed apple",
+            "price": 6.75
+          },
+          {
+            "name": "Unsweetened cranberry & a little apple juice",
+            "price": 6.75
+          },
+          {
+            "name": "100% pressed tomato",
+            "price": 6.75
+          }
+        ]
+      },
+      {
+        "id": "boosts",
+        "title": "A little extra",
+        "items": [
+          {
+            "name": "Boost your juice or smoothie",
+            "description": "Lion’s mane mushroom, vegan collagen, or chia & flax seeds.",
+            "priceLabel": "Ask our team"
+          },
+          {
+            "name": "Acai berry boost",
+            "price": 2.75
+          },
+          {
+            "name": "Fresh ginger shot",
+            "price": 2.5,
+            "description": "Fresh ginger, black pepper, turmeric and lime juice."
+          }
+        ]
+      }
+    ],
+    "notices": []
+  }
+]
