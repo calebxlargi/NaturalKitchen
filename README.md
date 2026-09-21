@@ -1,6 +1,6 @@
 # Natural Kitchen
 
-The Botanical Editorial redesign: cream, forest green, Cormorant Garamond headings, DM Sans text, and the restaurant’s own photography.
+The editorial redesign: cream and slate (#4c5c66), a light Natural Kitchen logo on slate header and footer backgrounds, Cormorant Garamond headings, DM Sans text, and the restaurant’s own photography.
 
 Built with Next.js 16, React 19 and TypeScript. The entire website exports to static files for **Cloudflare Pages**. No runtime server or database is required.
 

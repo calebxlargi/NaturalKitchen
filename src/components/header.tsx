@@ -1,6 +1,7 @@
 "use client";
 
 import Link from "next/link";
+import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 import { Arrow } from "./icons";
@@ -26,7 +27,7 @@ export function Header() {
   return <header className="site-header">
     <div className="header-inner">
       <Link className="wordmark" href="/" aria-label="Natural Kitchen home" onClick={() => setOpen(false)}>
-        NATURAL KITCHEN<span>LONDON</span>
+        <Image src="/images/nk_logo.png" alt="" width={2000} height={600} priority />
       </Link>
       <nav className="desktop-navigation" aria-label="Main navigation">
         {links.map(({ href, label }) => <Link key={href} href={href} aria-current={pathname.startsWith(href) ? "page" : undefined}>{label}</Link>)}
