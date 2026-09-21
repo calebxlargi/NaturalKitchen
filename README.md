@@ -20,6 +20,7 @@ To build and preview the production export:
 ```bash
 npm run build
 npm run verify
+npm run verify:cloudflare
 npm run preview
 ```
 
@@ -68,6 +69,18 @@ In Cloudflare, open **Workers & Pages → Create application → Pages → Impor
 | Node version | `22` (provided by `.node-version`; alternatively set `NODE_VERSION=22`) |
 
 The project uses `output: "export"` and `trailingSlash: true`. Images are optimized in advance, and fonts are served locally. No image server, Workers adapter, server actions, environment secrets, or runtime API routes are needed.
+
+### Cloudflare Workers Git deployment
+
+Cloudflare may create a **Worker** rather than a Pages project when the deploy command is `npx wrangler deploy`. This repository supports that route too. The committed `wrangler.jsonc` tells Wrangler to run the static build and publish `out` as static assets.
+
+Use this deploy command:
+
+```bash
+npx wrangler deploy
+```
+
+Do not select or add the OpenNext adapter. OpenNext expects a server build under `.next/standalone`, while this project intentionally produces a static export under `out`.
 
 After the initial connection, pushes to the production branch trigger new builds. Attach `naturalkitchen.co.uk` and `www.naturalkitchen.co.uk` through Cloudflare’s custom-domain settings when you are ready to replace the current website.
 
